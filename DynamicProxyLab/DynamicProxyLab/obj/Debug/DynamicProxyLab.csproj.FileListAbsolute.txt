@@ -1,0 +1,8 @@
+D:\GitHub\DynamicObject-research\DynamicProxyLab\DynamicProxyLab\bin\Debug\DynamicObjectLab.exe.config
+D:\GitHub\DynamicObject-research\DynamicProxyLab\DynamicProxyLab\bin\Debug\DynamicObjectLab.exe
+D:\GitHub\DynamicObject-research\DynamicProxyLab\DynamicProxyLab\bin\Debug\DynamicObjectLab.pdb
+D:\GitHub\DynamicObject-research\DynamicProxyLab\DynamicProxyLab\bin\Debug\ImpromptuInterface.dll
+D:\GitHub\DynamicObject-research\DynamicProxyLab\DynamicProxyLab\bin\Debug\ImpromptuInterface.xml
+D:\GitHub\DynamicObject-research\DynamicProxyLab\DynamicProxyLab\obj\Debug\DynamicProxyLab.csproj.CoreCompileInputs.cache
+D:\GitHub\DynamicObject-research\DynamicProxyLab\DynamicProxyLab\obj\Debug\DynamicObjectLab.exe
+D:\GitHub\DynamicObject-research\DynamicProxyLab\DynamicProxyLab\obj\Debug\DynamicObjectLab.pdb

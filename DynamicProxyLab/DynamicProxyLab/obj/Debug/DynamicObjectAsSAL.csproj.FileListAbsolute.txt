@@ -1,0 +1,9 @@
+C:\Users\Rely\source\repos\DynamicObjectAsSAL\DynamicObjectAsSAL\bin\Debug\DynamicObjectAsSAL.exe.config
+C:\Users\Rely\source\repos\DynamicObjectAsSAL\DynamicObjectAsSAL\bin\Debug\DynamicObjectAsSAL.exe
+C:\Users\Rely\source\repos\DynamicObjectAsSAL\DynamicObjectAsSAL\bin\Debug\DynamicObjectAsSAL.pdb
+C:\Users\Rely\source\repos\DynamicObjectAsSAL\DynamicObjectAsSAL\bin\Debug\ImpromptuInterface.dll
+C:\Users\Rely\source\repos\DynamicObjectAsSAL\DynamicObjectAsSAL\bin\Debug\ImpromptuInterface.xml
+C:\Users\Rely\source\repos\DynamicObjectAsSAL\DynamicObjectAsSAL\obj\Debug\DynamicObjectAsSAL.csprojResolveAssemblyReference.cache
+C:\Users\Rely\source\repos\DynamicObjectAsSAL\DynamicObjectAsSAL\obj\Debug\DynamicObjectAsSAL.csproj.CoreCompileInputs.cache
+C:\Users\Rely\source\repos\DynamicObjectAsSAL\DynamicObjectAsSAL\obj\Debug\DynamicObjectAsSAL.exe
+C:\Users\Rely\source\repos\DynamicObjectAsSAL\DynamicObjectAsSAL\obj\Debug\DynamicObjectAsSAL.pdb
