@@ -26,5 +26,7 @@ DynamicObject是在.NET Framework 4 才加入的功能。
 這裡有例子[Querying JSON with dynamic](https://www.newtonsoft.com/json/help/html/QueryJsonDynamic.htm)、[Create JSON with dynamic](https://www.newtonsoft.com/json/help/html/CreateJsonDynamic.htm)。
 	
 2. 第二個應用，Dynamic Proxy Pattern。
+例子：[Making a Dynamic Proxy in C# with ImpromptuInterface](https://www.youtube.com/watch?v=1rjQC6ftC4k)  
+需配合[ImpromptuInterface](https://github.com/ekonbenefits/impromptu-interface)提供的 ActLike<TInterface>() 能力。
 
 (EOF)
