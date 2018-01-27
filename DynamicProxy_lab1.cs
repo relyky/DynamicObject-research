@@ -27,9 +27,10 @@ namespace DynamicProxy-Lab
             if (!typeof(I).IsInterface)
                 throw new ArgumentException("I muse be an interface type!");
 
-            return new Log<T>(new T()).ActLike<I>();
+            return new Log<T>(new T()).ActLike<I>(); //※ 關鍵之一：取回 wave 完成的 dynamic proxy
         }
 
+        //※ 關鍵之二： wave 動作在 Try.. 等 override 成員函成實作。
         public override bool TryInvokeMember(InvokeMemberBinder binder,
             object[] args, out object result)
         {
